@@ -1,10 +1,15 @@
 # Hi 👋, I'm Pratik Dhananjay Dhayagude
 
 👨‍💻 Passionate about Data Structures & Algorithms (DSA) — with a strong interest in Linked Lists, Trees, and custom data-structure libraries.
-🛠️ Actively building projects using C, C++, Java, Python, JavaScript, TypeScript, and Angular.
+
+🛠️ Actively building projects using C, C++, Java .
+
 ⚙️ Interested in Linux System Programming (LSP) and understanding how software interacts with the operating system.
+
 🧠 Enjoy breaking down complex problems and converting them into clean, efficient, and maintainable code.
+
 🌱 Currently exploring full-stack development, backend systems, and real-world system design.
+
 📚 Strong foundation in algorithms, competitive programming, and core computer science concepts.
 
 <h3 align="left">Connect with me:</h3>
